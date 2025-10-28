@@ -92,7 +92,7 @@ src/
 ## Analysis
 
 A detailed analytical comparison of both algorithms is available in
-**`ANALYTICAL_REPORT.md`**.
+**`REPORT.md`**.
 
 ## Author
 Ruslan Satvaldiev SE-2407
